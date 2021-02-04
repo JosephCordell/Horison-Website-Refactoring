@@ -35,4 +35,4 @@ Website URL: [https://melissa-tan.github.io/Horison-Website_Refactoring/](https:
 
 ## Screenshot
 The below image shows the website after refactoring.
-![Screenshot of website after refactoring](./asset/images/refactored-site-screenshot.png)
+![Screenshot of website after refactoring](./assets/images/refactored-site-screenshot.png)

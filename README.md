@@ -31,8 +31,13 @@ THEN I find a concise, descriptive title
 
 Repository URL: [https://github.com/melissa-tan/Horison-Website_Refactoring](https://github.com/melissa-tan/Horison-Website_Refactoring)
 
-Website URL: [https://melissa-tan.github.io/Horison-Website_Refactoring/](https://melissa-tan.github.io/Horison-Website_Refactoring/)
+Website URL: [https://melissa-tan.github.io/Horison-Website_Refactoring/](https://melissa-tan.github.io/Horison-Website-Refactoring/)
 
 ## Screenshot
 The below image shows the website after refactoring.
 ![Screenshot of website after refactoring](./assets/images/refactored-site-screenshot.png)
+
+## Changes Made
+### HTML
+Changed the title of the website
+Changed element tags to be semantic 

@@ -28,9 +28,9 @@ THEN I find a concise, descriptive title
 ```
 ## Submission Links
 
-Repository URL: [https://github.com/melissa-tan/Horison-Website_Refactoring](https://github.com/melissa-tan/Horison-Website-Refactoring)
+Repository URL: [https://github.com/melissa-tan/Horison-Website-Refactoring](https://github.com/melissa-tan/Horison-Website-Refactoring)
 
-Website URL: [https://melissa-tan.github.io/Horison-Website_Refactoring/](https://melissa-tan.github.io/Horison-Website-Refactoring/)
+Website URL: [https://melissa-tan.github.io/Horison-Website-Refactoring/](https://melissa-tan.github.io/Horison-Website-Refactoring/)
 
 ## Screenshot
 The below image shows the website after refactoring.

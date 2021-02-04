@@ -1,4 +1,4 @@
-# HORISEON Digital Marketing Website Optimization
+# HORISEON Digital Marketing Website Refactoring
 This respository contains a project 
 Refactoring an existing website to improve the **accessibility**. The tech lead has given a small list of specific criterias to satisfy the project.
 
@@ -27,7 +27,7 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-## Submission Link
+## Submission Links
 
 Repository URL: [https://github.com/melissa-tan/Horison-Website_Refactoring](https://github.com/melissa-tan/Horison-Website_Refactoring)
 

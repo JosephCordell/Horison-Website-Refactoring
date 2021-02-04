@@ -28,7 +28,7 @@ THEN I find a concise, descriptive title
 ```
 ## Submission Links
 
-Repository URL: [https://github.com/melissa-tan/Horison-Website_Refactoring](https://github.com/melissa-tan/Horison-Website_Refactoring)
+Repository URL: [https://github.com/melissa-tan/Horison-Website_Refactoring](https://github.com/melissa-tan/Horison-Website-Refactoring)
 
 Website URL: [https://melissa-tan.github.io/Horison-Website_Refactoring/](https://melissa-tan.github.io/Horison-Website-Refactoring/)
 

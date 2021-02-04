@@ -27,10 +27,12 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-## Submission Link and Screenshot
+## Submission Link
 
 Repository URL: [https://github.com/melissa-tan/Horison-Website_Refactoring](https://github.com/melissa-tan/Horison-Website_Refactoring)
 
-Website URL:[https://melissa-tan.github.io/Horison-Website_Refactoring/](https://melissa-tan.github.io/Horison-Website_Refactoring/)
+Website URL: [https://melissa-tan.github.io/Horison-Website_Refactoring/](https://melissa-tan.github.io/Horison-Website_Refactoring/)
 
-#### Screenshot
+## Screenshot
+The below image shows the website after refactoring.
+![Screenshot of website after refactoring](./asset/images/refactored-site-screenshot.png)

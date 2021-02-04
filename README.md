@@ -38,15 +38,15 @@ The below image shows the website after refactoring.
 
 ## Changes Made
 ### HTML
-Changed the title to Horiseon Digital Marketing
-Changed element tags to be semantic 
-Changed div tags to header, nav, img, main, section,aside, footer
-Removed class for elements with duplicate id and class names 
-Added comments to differentiate sections
+- Changed the title to Horiseon Digital Marketing
+- Changed element tags to be semantic 
+- Changed div tags to header, nav, img, main, section, aside, footer
+- Removed class for elements with duplicate id and class names 
+- Added comments to differentiate sections
 
 ### CSS
-Updated tags to match index.html
-Updated the ordering of the selectors to match the sequential order of index.html
-Consolidated repeating CSS Rules and CSS Values to a single class selector of the same name
-Updated and combined class selectors to id selectors based on updates in index.html
-Added comments to differentiate sections
+- Updated tags to match index.html
+- Updated the ordering of the selectors to match the sequential order of index.html
+- Consolidated repeating CSS Rules and CSS Values to a single class selector of the same name
+- Updated and combined class selectors to id selectors based on updates in index.html
+- Added comments to differentiate sections
